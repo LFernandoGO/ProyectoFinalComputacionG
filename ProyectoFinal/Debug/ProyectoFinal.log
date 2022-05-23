@@ -1,0 +1,28 @@
+﻿  ProyectoFinal.cpp
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\modelAnim.h(519,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(610,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1459,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2212,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2213,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2217,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2218,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2220,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2221,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2233,44): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2239,45): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2246,41): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2253,42): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2316,16): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2324,16): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2357,19): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2367,19): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2381,25): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2391,25): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2401,23): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2411,23): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2424,26): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2434,26): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2444,24): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(2454,24): warning C4305: '+=': truncamiento de 'double' a 'float'
+  ProyectoFinal.vcxproj -> C:\Users\luisf\Desktop\Facultad\10mo Semestre\Computacion Grafica\ProyectoFinalCG\ProyectoFinal\Debug\ProyectoFinal.exe
